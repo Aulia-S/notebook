@@ -1,7 +1,18 @@
+import { useRouter } from 'next/router'
+
 export default {
-  logo: <span>Aulia's Notebook</span>,
+  logo: <b>Aulia's Notebook</b>,
   project: {
-    link: 'https://github.com/shuding/nextra',
+    link: 'https://github.com/Aulia-S/notebook',
+  },
+  docsRepositoryBase: 'https://github.com/Aulia-S/notebook/tree/main/pages',
+  useNextSeoProps() {
+    const { asPath } = useRouter()
+    if (asPath !== '/') {
+      return {
+        titleTemplate: "%s – Aulia's Notebook",
+      }
+    }
   },
   // ... other theme options
 }
