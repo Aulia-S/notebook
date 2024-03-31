@@ -1,8 +1,0 @@
-{
-  "react": "React",
-  "---": {
-    "type": "separator"
-  },
-  "svelte": "Svelte",
-  "vue": "Vue"
-}

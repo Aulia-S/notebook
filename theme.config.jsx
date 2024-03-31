@@ -5,7 +5,7 @@ export default {
   project: {
     link: 'https://github.com/Aulia-S/notebook',
   },
-  docsRepositoryBase: 'https://github.com/Aulia-S/notebook/tree/main/pages',
+  docsRepositoryBase: 'https://github.com/Aulia-S/notebook/tree/main',
   useNextSeoProps() {
     const { asPath } = useRouter()
     if (asPath !== '/') {
@@ -13,6 +13,9 @@ export default {
         titleTemplate: "%s – Aulia's Notebook",
       }
     }
+  },
+  footer: {
+    text: <span>&copy; {new Date().getFullYear()} Aulia's Notebook</span>,
   },
   // ... other theme options
 }
