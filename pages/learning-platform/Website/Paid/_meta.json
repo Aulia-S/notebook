@@ -1,0 +1,17 @@
+{
+  "Progate": {
+    "title": "Progate",
+    "href": "https://progate.com/",
+    "newWindow": true
+  },
+  "Dicoding": {
+    "title": "Dicoding",
+    "href": "https://www.dicoding.com/",
+    "newWindow": true
+  },
+  "Udemy": {
+    "title": "Udemy",
+    "href": "https://www.udemy.com/",
+    "newWindow": true
+  }
+}

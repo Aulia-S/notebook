@@ -17,5 +17,9 @@ export default {
   footer: {
     text: <span>&copy; {new Date().getFullYear()} Aulia's Notebook</span>,
   },
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+    autoCollapse: true,
+  },
   // ... other theme options
 }

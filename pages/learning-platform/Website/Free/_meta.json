@@ -1,0 +1,47 @@
+{
+  "W3Schools": {
+    "title": "W3Schools",
+    "href": "https://www.w3schools.com/",
+    "newWindow": true
+  },
+  "PetaniKode": {
+    "title": "Petani Kode",
+    "href": "https://www.petanikode/",
+    "newWindow": true
+  },
+  "CSSBattle": {
+    "title": "CSSBattle",
+    "href": "https://cssbattle.dev/",
+    "newWindow": true
+  },
+  "freeCodeCamp": {
+    "title": "freeCodeCamp",
+    "href": "https://www.freecodecamp.org/",
+    "newWindow": true
+  },
+  "geeksforgeeks": {
+    "title": "geeksforgeeks",
+    "href": "https://www.geeksforgeeks.org/",
+    "newWindow": true
+  },
+  "MDNWebDocs": {
+    "title": "MDN Web Docs",
+    "href": "https://developer.mozilla.org/en-US/",
+    "newWindow": true
+  },
+  "codewars": {
+    "title": "codewars",
+    "href": "https://www.codewars.com/",
+    "newWindow": true
+  },
+  "KhanAcademy": {
+    "title": "Khan Academy",
+    "href": "https://id.khanacademy.org/",
+    "newWindow": true
+  },
+  "HackerRank": {
+    "title": "Hacker Rank",
+    "href": "https://www.hackerrank.com/",
+    "newWindow": true
+  }
+}
