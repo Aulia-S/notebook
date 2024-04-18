@@ -7,14 +7,6 @@
       "layout": "raw"
     }
   },
-  "nextjs": {
-    "title": "Next.js",
-    "type": "page"
-  },
-  "reactjs": {
-    "title": "React.js",
-    "type": "page"
-  },
   "library": {
     "title": "Library",
     "type": "page"
