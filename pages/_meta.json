@@ -7,6 +7,10 @@
       "layout": "raw"
     }
   },
+  "mern": {
+    "title": "MERN",
+    "type": "page"
+  },
   "library": {
     "title": "Library",
     "type": "page"

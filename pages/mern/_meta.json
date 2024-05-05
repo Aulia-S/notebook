@@ -1,0 +1,14 @@
+{
+  "overview": {
+    "title": "Overview"
+  },
+  "plan": {
+    "title": "Planning the App"
+  },
+  "frontend": {
+    "title": "Frontend"
+  },
+  "backend": {
+    "title": "Backend"
+  }
+}
